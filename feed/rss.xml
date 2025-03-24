@@ -17,7 +17,7 @@
       <dc:type>subscription</dc:type>
       <category>Tienda</category>
       <guid isPermaLink="false">tienda-subscription</guid>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: 25/03/2025 es martes -->
+      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
     </item>
 
     <!-- Ghost Of Tsushima Katana -->
@@ -34,8 +34,8 @@
       <dc:type>product</dc:type>
       <category>Katanas</category>
       <category>Replicas</category>
-      <guid isPermaLink="false">ghost-tsushima-katana</guid> <!-- Corregido: isPermaLink="false" -->
-      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
+      <guid isPermaLink="false">ghost-tsushima-katana</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
     </item>
 
     <!-- Katana Akizuki -->
@@ -52,8 +52,8 @@
       <dc:type>product</dc:type>
       <category>Katanas</category>
       <category>Tradicional</category>
-      <guid isPermaLink="false">katana-akizuki</guid> <!-- Corregido: isPermaLink="false" -->
-      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
+      <guid isPermaLink="false">katana-akizuki</guid>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
     </item>
 
     <!-- Tanto -->
@@ -70,8 +70,8 @@
       <dc:type>product</dc:type>
       <category>Dagas</category>
       <category>Tradicional</category>
-      <guid isPermaLink="false">tanto-akai</guid> <!-- Corregido: isPermaLink="false" -->
-      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
+      <guid isPermaLink="false">tanto-akai</guid>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
     </item>
 
     <!-- Wakizashi -->
@@ -88,8 +88,8 @@
       <dc:type>product</dc:type>
       <category>Espadas</category>
       <category>Tradicional</category>
-      <guid isPermaLink="false">wakizashi-samurai</guid> <!-- Corregido: isPermaLink="false" -->
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
+      <guid isPermaLink="false">wakizashi-samurai</guid>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
