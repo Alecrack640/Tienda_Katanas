@@ -2,24 +2,28 @@
 <opml version="2.0">
   <head>
     <title>Contenido de Katana Ki</title>
-    <dateCreated>2025-03-25T00:00:00Z</dateCreated>
+    <dateCreated>Tue, 25 Mar 2025 00:00:00 GMT</dateCreated>
   </head>
   <body>
     <!-- Sección Podcast -->
-    <outline text="Podcasts">
+    <outline text="Podcasts" title="Podcasts">
       <outline 
           text="Katana Ki Talks" 
+          title="Katana Ki Talks"
           type="rss" 
           xmlUrl="https://alecrack640.github.io/podcast/feed.xml"
+          htmlUrl="https://alecrack640.github.io/podcast/"
       />
     </outline>
 
     <!-- Sección Tienda/Blog -->
-    <outline text="Tienda de Katanas">
+    <outline text="Tienda de Katanas" title="Tienda de Katanas">
       <outline 
           text="Productos destacados" 
+          title="Productos destacados"
           type="rss" 
           xmlUrl="https://alecrack640.github.io/blog/feed/rss.xml"
+          htmlUrl="https://alecrack640.github.io/blog/"
       />
     </outline>
   </body>
