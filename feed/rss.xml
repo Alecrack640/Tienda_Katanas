@@ -4,12 +4,12 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Tienda de Katanas - Productos y Novedades</title>
-    <link>https://www.tiendadekatanas.com/blog/</link>
+    <link>https://alecrack640.github.io/blog/</link>
     <description>Actualizaciones individuales por producto o suscripción a toda la tienda</description>
     <atom:link href="https://alecrack640.github.io/feed/rss.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
 
-    <!-- Supcripcion General de la tienda -->
+    <!-- Suscripción General de la tienda -->
     <item>
       <title>Suscríbete a Todos los productos</title>
       <link>https://alecrack640.github.io/blog/</link>
@@ -17,7 +17,7 @@
       <dc:type>subscription</dc:type>
       <category>Tienda</category>
       <guid isPermaLink="false">tienda-subscription</guid>
-      <pubDate>Wed, 25 Mar 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: 25/03/2025 es martes -->
     </item>
 
     <!-- Ghost Of Tsushima Katana -->
@@ -34,8 +34,8 @@
       <dc:type>product</dc:type>
       <category>Katanas</category>
       <category>Replicas</category>
-      <guid isPermaLink="true">ghost-tsushima-katana</guid>
-      <pubDate>Wed, 25 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ghost-tsushima-katana</guid> <!-- Corregido: isPermaLink="false" -->
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
     </item>
 
     <!-- Katana Akizuki -->
@@ -52,8 +52,8 @@
       <dc:type>product</dc:type>
       <category>Katanas</category>
       <category>Tradicional</category>
-      <guid isPermaLink="true">katana-akizuki</guid>
-      <pubDate>Tue, 24 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">katana-akizuki</guid> <!-- Corregido: isPermaLink="false" -->
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
     </item>
 
     <!-- Tanto -->
@@ -70,8 +70,8 @@
       <dc:type>product</dc:type>
       <category>Dagas</category>
       <category>Tradicional</category>
-      <guid isPermaLink="true">tanto-akai</guid>
-      <pubDate>Mon, 23 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tanto-akai</guid> <!-- Corregido: isPermaLink="false" -->
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
     </item>
 
     <!-- Wakizashi -->
@@ -88,9 +88,8 @@
       <dc:type>product</dc:type>
       <category>Espadas</category>
       <category>Tradicional</category>
-      <guid isPermaLink="true">wakizashi-samurai</guid>
-      <pubDate>Sun, 22 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">wakizashi-samurai</guid> <!-- Corregido: isPermaLink="false" -->
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate> <!-- Corregido: fecha/día ajustado -->
     </item>
-
   </channel>
 </rss>
