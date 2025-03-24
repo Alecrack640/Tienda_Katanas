@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tienda de Katanas - Productos y Novedades</title>
+    <link>https://www.tiendadekatanas.com/blog/</link>
+    <description>Actualizaciones individuales por producto o suscripción a toda la tienda</description>
+    <atom:link href="https://www.tiendadekatanas.com/feed/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+
+    <!-- Supcripcion General de la tienda -->
+    <item>
+      <title>Suscríbete a TODOS los productos</title>
+      <link>https://www.tiendadekatanas.com/blog/</link>
+      <description>Recibe actualizaciones sobre nuevos productos, ofertas y contenido exclusivo.</description>
+      <dc:type>subscription</dc:type>
+      <category>Tienda</category>
+      <guid isPermaLink="false">tienda-subscription</guid>
+      <pubDate>Wed, 25 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Ghost Of Tsushima Katana -->
+    <item>
+      <title>Ghost Of Tsushima Katana - $150.00</title>
+      <link>https://www.tiendadekatanas.com/blog/posts/Ghost_Of_Tsushima_Katana.html</link>
+      <description>
+        <![CDATA[
+        <img src="https://www.tiendadekatanas.com/blog/images/ghost-of-tsushima-katana.jpg" alt="Ghost Of Tsushima Katana"/>
+        <p>Réplica oficial de la katana de Jin Sakai. Ideal para coleccionistas.</p>
+        <p><strong>Precio:</strong> $150.00</p>
+        ]]>
+      </description>
+      <dc:type>product</dc:type>
+      <category>Katanas</category>
+      <category>Replicas</category>
+      <guid isPermaLink="true">ghost-tsushima-katana</guid>
+      <pubDate>Wed, 25 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Katana Akizuki -->
+    <item>
+      <title>Katana Akizuki - $200.99</title>
+      <link>https://www.tiendadekatanas.com/blog/posts/Japanese_katana.html</link>
+      <description>
+        <![CDATA[
+        <img src="https://www.tiendadekatanas.com/blog/images/japanese_katana.jpg" alt="Katana Akizuki"/>
+        <p>Katana tradicional "Luna de Otoño", hoja de acero al carbono.</p>
+        <p><strong>Precio:</strong> $200.99</p>
+        ]]>
+      </description>
+      <dc:type>product</dc:type>
+      <category>Katanas</category>
+      <category>Tradicional</category>
+      <guid isPermaLink="true">katana-akizuki</guid>
+      <pubDate>Tue, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Tanto -->
+    <item>
+      <title>Tanto - $29.99</title>
+      <link>https://www.tiendadekatanas.com/blog/posts/Tanto.html</link>
+      <description>
+        <![CDATA[
+        <img src="https://www.tiendadekatanas.com/blog/images/tanto1.jpeg" alt="Tanto"/>
+        <p>Daga japonesa tradicional para coleccionistas y artes marciales.</p>
+        <p><strong>Precio:</strong> $29.99</p>
+        ]]>
+      </description>
+      <dc:type>product</dc:type>
+      <category>Dagas</category>
+      <category>Tradicional</category>
+      <guid isPermaLink="true">tanto-akai</guid>
+      <pubDate>Mon, 23 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Wakizashi -->
+    <item>
+      <title>Wakizashi - $290.99</title>
+      <link>https://www.tiendadekatanas.com/blog/posts/Wakizashi.html</link>
+      <description>
+        <![CDATA[
+        <img src="https://www.tiendadekatanas.com/blog/images/Wakizashi1.jpg" alt="Wakizashi"/>
+        <p>Espada corta samurái, forjada en acero T10.</p>
+        <p><strong>Precio:</strong> $290.99</p>
+        ]]>
+      </description>
+      <dc:type>product</dc:type>
+      <category>Espadas</category>
+      <category>Tradicional</category>
+      <guid isPermaLink="true">wakizashi-samurai</guid>
+      <pubDate>Sun, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
