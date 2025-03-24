@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Contenido de Katana Ki</title>
+    <dateCreated>2025-03-25T00:00:00Z</dateCreated>
+  </head>
+  <body>
+    <!-- Sección Podcast -->
+    <outline text="Podcasts">
+      <outline 
+          text="Katana Ki Talks" 
+          type="rss" 
+          xmlUrl="https://alecrack640.github.io/podcast/feed.xml"
+      />
+    </outline>
+
+    <!-- Sección Tienda/Blog -->
+    <outline text="Tienda de Katanas">
+      <outline 
+          text="Productos destacados" 
+          type="rss" 
+          xmlUrl="https://alecrack640.github.io/blog/feed/rss.xml"
+      />
+    </outline>
+  </body>
+</opml>
