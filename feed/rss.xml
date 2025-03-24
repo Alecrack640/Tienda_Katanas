@@ -6,13 +6,13 @@
     <title>Tienda de Katanas - Productos y Novedades</title>
     <link>https://www.tiendadekatanas.com/blog/</link>
     <description>Actualizaciones individuales por producto o suscripción a toda la tienda</description>
-    <atom:link href="https://www.tiendadekatanas.com/feed/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alecrack640.github.io/feed/rss.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
 
     <!-- Supcripcion General de la tienda -->
     <item>
-      <title>Suscríbete a TODOS los productos</title>
-      <link>https://www.tiendadekatanas.com/blog/</link>
+      <title>Suscríbete a Todos los productos</title>
+      <link>https://alecrack640.github.io/blog/</link>
       <description>Recibe actualizaciones sobre nuevos productos, ofertas y contenido exclusivo.</description>
       <dc:type>subscription</dc:type>
       <category>Tienda</category>
@@ -23,10 +23,10 @@
     <!-- Ghost Of Tsushima Katana -->
     <item>
       <title>Ghost Of Tsushima Katana - $150.00</title>
-      <link>https://www.tiendadekatanas.com/blog/posts/Ghost_Of_Tsushima_Katana.html</link>
+      <link>https://alecrack640.github.io/blog/posts/Ghost_Of_Tsushima_Katana.html</link>
       <description>
         <![CDATA[
-        <img src="https://www.tiendadekatanas.com/blog/images/ghost-of-tsushima-katana.jpg" alt="Ghost Of Tsushima Katana"/>
+        <img src="https://alecrack640.github.io/blog/images/ghost-of-tsushima-katana.jpg" alt="Ghost Of Tsushima Katana"/>
         <p>Réplica oficial de la katana de Jin Sakai. Ideal para coleccionistas.</p>
         <p><strong>Precio:</strong> $150.00</p>
         ]]>
@@ -41,10 +41,10 @@
     <!-- Katana Akizuki -->
     <item>
       <title>Katana Akizuki - $200.99</title>
-      <link>https://www.tiendadekatanas.com/blog/posts/Japanese_katana.html</link>
+      <link>https://alecrack640.github.io/blog/posts/Japanese_katana.html</link>
       <description>
         <![CDATA[
-        <img src="https://www.tiendadekatanas.com/blog/images/japanese_katana.jpg" alt="Katana Akizuki"/>
+        <img src="https://alecrack640.github.io/blog/images/japanese_katana.jpg" alt="Katana Akizuki"/>
         <p>Katana tradicional "Luna de Otoño", hoja de acero al carbono.</p>
         <p><strong>Precio:</strong> $200.99</p>
         ]]>
@@ -59,10 +59,10 @@
     <!-- Tanto -->
     <item>
       <title>Tanto - $29.99</title>
-      <link>https://www.tiendadekatanas.com/blog/posts/Tanto.html</link>
+      <link>https://alecrack640.github.io/blog/posts/Tanto.html</link>
       <description>
         <![CDATA[
-        <img src="https://www.tiendadekatanas.com/blog/images/tanto1.jpeg" alt="Tanto"/>
+        <img src="https://alecrack640.github.io/blog/images/tanto1.jpeg" alt="Tanto"/>
         <p>Daga japonesa tradicional para coleccionistas y artes marciales.</p>
         <p><strong>Precio:</strong> $29.99</p>
         ]]>
@@ -77,10 +77,10 @@
     <!-- Wakizashi -->
     <item>
       <title>Wakizashi - $290.99</title>
-      <link>https://www.tiendadekatanas.com/blog/posts/Wakizashi.html</link>
+      <link>https://alecrack640.github.io/blog/posts/Wakizashi.html</link>
       <description>
         <![CDATA[
-        <img src="https://www.tiendadekatanas.com/blog/images/Wakizashi1.jpg" alt="Wakizashi"/>
+        <img src="https://alecrack640.github.io/blog/images/Wakizashi1.jpg" alt="Wakizashi"/>
         <p>Espada corta samurái, forjada en acero T10.</p>
         <p><strong>Precio:</strong> $290.99</p>
         ]]>
