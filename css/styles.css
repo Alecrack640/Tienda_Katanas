@@ -173,6 +173,7 @@ body {
     margin: 20px auto;
     text-align: left;
     border: 1px solid #ddd;
+    background-color: hsl(189, 38%, 82%);
     padding: 20px;
     border-radius: 10px;
 }
@@ -190,7 +191,7 @@ a {
 
 .nombre_producto {
     display: block;
-    background-color: #51b854;
+    background-color: #4D55CC;
     color: white;
     padding: 15px 0;
     font-size: 18px;
@@ -205,7 +206,7 @@ a {
 }
 
 .nombre_producto:hover {
-    background-color: #2b772f;
+    background-color: #211C84;
 }
 
    /* El GIF de la pagina principal*/
@@ -225,7 +226,7 @@ a {
 
 .btn {
     display: inline-block;
-    background-color: #4CAF50; /* Verde */
+    background-color: #4D55CC;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -235,7 +236,7 @@ a {
 }
 
 .btn:hover {
-    background-color: #2b772f; /* Verde más oscuro al pasar el ratón */
+    background-color: #211C84; /* Verde más oscuro al pasar el ratón */
     transform: scale(1.05); /* Pequeño efecto de agrandado */
 }
 
