@@ -16,7 +16,7 @@
       <title>Episodio 1: ¿Qué interpreta el drakukeo?</title>
       <link>https://alecrack640.github.io/podcast/#episodio1</link>
       <description>Exploramos el significado del drakukeo en la cultura samurái</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido.mp4" length="10240000" type="audio/mpeg"/>
+      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido.mp3" length="10240000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-1</guid>
       <pubDate>Mon, 01 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>30:45</itunes:duration>
@@ -29,7 +29,7 @@
       <title>Episodio 2: Aprende sobre ES6+</title>
       <link>https://alecrack640.github.io/podcast/#episodio2</link>
       <description>Analizamos async/await y otras mejoras en JavaScript</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido1.mp4" length="15234000" type="audio/mpeg"/>
+      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido1.mp3" length="15234000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-2</guid>
       <pubDate>Mon, 08 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>42:18</itunes:duration>
@@ -42,7 +42,7 @@
       <title>Episodio 3: Frameworks Frontend</title>
       <link>https://alecrack640.github.io/podcast/#episodio3</link>
       <description>Comparativa entre React, Vue y Angular en el desarrollo web moderno</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido2.mp4" length="18345000" type="audio/mpeg"/>
+      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido2.mp3" length="18345000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-3</guid>
       <pubDate>Mon, 15 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>51:22</itunes:duration>
@@ -55,7 +55,7 @@
       <title>Episodio 4: Frameworks Frontend (Parte 2)</title>
       <link>https://alecrack640.github.io/podcast/#episodio4</link>
       <description>Continuación de la comparativa entre frameworks frontend</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido3.mp4" length="16230000" type="audio/mpeg"/>
+      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido3.mp3" length="16230000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-4</guid>
       <pubDate>Mon, 22 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>45:15</itunes:duration>
