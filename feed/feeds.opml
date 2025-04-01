@@ -11,8 +11,8 @@
           text="Katana Ki Talks" 
           title="Katana Ki Talks"
           type="rss" 
-          xmlUrl="https://alecrack640.github.io/podcast/feed.xml"
-          htmlUrl="https://alecrack640.github.io/podcast/"
+          xmlUrl="https://alecrack640.github.io/Tienda_Katanas/feed/podcast.xml"
+          htmlUrl="https://alecrack640.github.io/Tienda_Katanas/"
       />
     </outline>
 
@@ -22,8 +22,8 @@
           text="Productos destacados" 
           title="Productos destacados"
           type="rss" 
-          xmlUrl="https://alecrack640.github.io/blog/feed/rss.xml"
-          htmlUrl="https://alecrack640.github.io/blog/"
+          xmlUrl="https://alecrack640.github.io/Tienda_Katanas/feed/rss.xml"
+          htmlUrl="https://alecrack640.github.io/Tienda_Katanas/"
       />
     </outline>
   </body>
