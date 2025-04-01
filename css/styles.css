@@ -270,51 +270,80 @@ footer a img {
 
 /* Estilos Responsivos */
 
-/* Móviles*/
+/* Móviles pequeños */
+@media (max-width: 400px) {
+    
+    .banner {
+        font-size: 18px;
+        white-space: normal;
+    }
+    
+    .search-form input {
+        width: 100%;
+    }
+}
+
+/* Móviles  */
 @media (max-width: 600px) {
     .banner {
         font-size: 20px;
         padding: 10px;
+        white-space: normal;
     }
-
+    
     .navbar a {
         display: block;
         padding: 10px;
     }
-
+    
     .search-form {
         text-align: center;
+        padding: 0 10px;
     }
-
+    
     .search-form input {
-        width: 80%;
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
     }
-
+    
     .producto {
         width: 90%;
+        margin: 12px auto;
         height: auto;
     }
-
-    .gif-container {
-        padding: 5px;
-      }
-  
-      .responsive-gif {
-        max-width: 90%; /* Asegura que no ocupe todo el ancho, dejando espacio */
-        height: auto; /* Mantiene las proporciones del GIF */
-      }
-}
-
-/* Tablets*/
-@media (max-width: 1024px) {
-    .producto {
-        width: 45%;
+    
+    .episodio {
+        padding: 15px;
+        width: 100%;
+    }
+    
+    .introduccion {
+        padding: 20px 15px;
+        margin: 10px;
     }
 }
 
-/* Pantallas Grandes */
-@media (min-width: 1025px) {
+/* Tablets */
+@media (min-width: 601px) and (max-width: 1023px) {
+    .producto {
+        width: 48%;
+        margin: 1%;
+    }
+    
+    .episodio {
+        width: 48%;
+    }
+}
+
+/* Pantallas grandes */
+@media (min-width: 1024px) {
     .producto {
         width: 200px;
+        margin: 12px;
+    }
+    
+    .episodio {
+        max-width: 400px;
     }
 }
