@@ -3,11 +3,10 @@
   <head>
     <title>Contenido de Katana Ki</title>
     <dateCreated>Tue, 25 Mar 2025 00:00:00 GMT</dateCreated>
-    <docs>http://dev.opml.org/spec2.html</docs>
   </head>
   <body>
     <!-- Sección Podcast -->
-    <outline text="Podcasts" title="Podcasts">
+    <outline text="Podcasts" type="category">
       <outline 
           text="Katana Ki Talks" 
           title="Katana Ki Talks"
@@ -18,7 +17,7 @@
     </outline>
 
     <!-- Sección Tienda/Blog -->
-    <outline text="Tienda de Katanas" title="Tienda de Katanas">
+    <outline text="Tienda de Katanas" type="category">
       <outline 
           text="Productos destacados" 
           title="Productos destacados"
