@@ -4,7 +4,7 @@
     <title>Tienda de Katanas - Productos</title>
     <link>https://alecrack640.github.io/Tienda_Katanas/blog/</link>
     <description>Catálogo completo de katanas y productos samuráis</description>
-    <atom:link href="https://alecrack640.github.io/Tienda_Katanas/blog/feed/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alecrack640.github.io/Tienda_Katanas/feed/rss.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
     <lastBuildDate>Mon, 20 Nov 2023 12:00:00 +0000</lastBuildDate>
     <generator>Custom RSS Generator</generator>
