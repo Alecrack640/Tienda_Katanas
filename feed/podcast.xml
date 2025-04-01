@@ -2,21 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Katana Ki Talks</title>
-    <link>https://alecrack640.github.io/podcast/</link>
+    <link>https://alecrack640.github.io/Tienda_Katanas/podcast/</link>
     <description>Exploramos la historia, el arte y la cultura detrás de las legendarias katanas japonesas</description>
     <language>es</language>
-    <atom:link href="https://alecrack640.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alecrack640.github.io/Tienda_Katanas/feed/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Katana Ki</itunes:author>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://alecrack640.github.io/images/podcast-cover.jpg"/>
 
     <!-- Episodio 1 -->
     <item>
-      <title>Episodio 1: ¿Qué interpreta el drakukeo?</title>
-      <link>https://alecrack640.github.io/podcast/#episodio1</link>
-      <description>Exploramos el significado del drakukeo en la cultura samurái</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido.mp3" length="10240000" type="audio/mpeg"/>
+      <title>¿Qué interpreta el drakukeo?</title>
+      <link>https://alecrack640.github.io/Tienda_Katanas/podcast/index.html</link>
+      <description>Drakukeo es un subgénero del reggaetón y el trap que fusiona elementos oscuros y góticos con el estilo urbano. Inspirado en vampiros y estética tenebrosa, sus letras y ritmos reflejan una vibra misteriosa y callejera.</description>
+      <enclosure url="https://alecrack640.github.io/Tienda_Katanas/podcast/sonidos/sonido.mp3" length="10240000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-1</guid>
       <pubDate>Mon, 01 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>30:45</itunes:duration>
@@ -26,10 +25,10 @@
 
     <!-- Episodio 2 -->
     <item>
-      <title>Episodio 2: Aprende sobre ES6+</title>
-      <link>https://alecrack640.github.io/podcast/#episodio2</link>
-      <description>Analizamos async/await y otras mejoras en JavaScript</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido1.mp3" length="15234000" type="audio/mpeg"/>
+      <title>FAZ DE CHICOTE (FUNK)</title>
+      <link>https://alecrack640.github.io/Tienda_Katanas/podcast/index.html</link>
+      <description>Faz de Chicote es un éxito del funk brasileño que se hizo popular en las redes sociales y fiestas. Con un ritmo contagioso y una letra pegajosa, refleja el estilo animado y enérgico del funk carioca.</description>
+      <enclosure url="https://alecrack640.github.io/Tienda_Katanas/podcast/sonidos/sonido1.mp3" length="15234000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-2</guid>
       <pubDate>Mon, 08 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>42:18</itunes:duration>
@@ -39,10 +38,10 @@
 
     <!-- Episodio 3 -->
     <item>
-      <title>Episodio 3: Frameworks Frontend</title>
-      <link>https://alecrack640.github.io/podcast/#episodio3</link>
-      <description>Comparativa entre React, Vue y Angular en el desarrollo web moderno</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido2.mp3" length="18345000" type="audio/mpeg"/>
+      <title>La Cancion Funky Town</title>
+      <link>https://alecrack640.github.io/Tienda_Katanas/podcast/index.html</link>
+      <description>Funkytown es una icónica canción de disco y funk lanzada en 1980 por la banda Lipps Inc. Con su pegajoso ritmo y sintetizadores vibrantes, se convirtió en un éxito mundial y un clásico de las pistas de baile.</description>
+      <enclosure url="https://alecrack640.github.io/Tienda_Katanas/podcast/sonidos/sonido2.mp3" length="18345000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-3</guid>
       <pubDate>Mon, 15 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>51:22</itunes:duration>
@@ -52,10 +51,10 @@
 
     <!-- Episodio 4 -->
     <item>
-      <title>Episodio 4: Frameworks Frontend (Parte 2)</title>
-      <link>https://alecrack640.github.io/podcast/#episodio4</link>
-      <description>Continuación de la comparativa entre frameworks frontend</description>
-      <enclosure url="https://alecrack640.github.io/podcast/sonidos/sonido3.mp3" length="16230000" type="audio/mpeg"/>
+      <title>Eminen</title>
+      <link>https://alecrack640.github.io/Tienda_Katanas/podcast/index.html</link>
+      <description>Eminem es un rapero, productor y actor estadounidense, reconocido como uno de los mejores de la historia del hip-hop. Con su estilo único, letras afiladas y múltiples discos de platino, ha dejado una huella imborrable en la música.</description>
+      <enclosure url="https://alecrack640.github.io/Tienda_Katanas/podcast/sonidos/sonido3.mp3" length="16230000" type="audio/mpeg"/>
       <guid isPermaLink="false">katana-ki-episodio-4</guid>
       <pubDate>Mon, 22 May 2023 08:00:00 GMT</pubDate>
       <itunes:duration>45:15</itunes:duration>
