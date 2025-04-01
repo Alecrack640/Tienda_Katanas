@@ -4,17 +4,17 @@
     <title>Tienda de Katanas - Productos</title>
     <link>https://alecrack640.github.io/blog/</link>
     <description>Catálogo completo de katanas y productos samuráis</description>
-    <atom:link href="https://alecrack640.github.io/blog/feed/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://alecrack640.github.io/Tienda_Katanas/blog/feed/rss.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
     <lastBuildDate>Tue, 25 Mar 2025 12:00:00 GMT</lastBuildDate>
 
     <!-- Producto 1 -->
     <item>
       <title>Ghost Of Tsushima Katana - $150.00</title>
-      <link>https://alecrack640.github.io/blog/posts/Ghost_Of_Tsushima_Katana.html</link>
+      <link>https://alecrack640.github.io/Tienda_Katanas/blog/posts/Ghost_Of_Tsushima_Katana.html</link>
       <description>
         <![CDATA[
-        <img src="https://alecrack640.github.io/blog/images/ghost-of-tsushima-katana.jpg" width="300" alt="Ghost Of Tsushima Katana"/>
+        <img src="https://alecrack640.github.io/Tienda_Katanas/blog/images/ghost-of-tsushima-katana.jpg" width="300" alt="Ghost Of Tsushima Katana"/>
         <p>Réplica oficial de la katana de Jin Sakai. Ideal para coleccionistas.</p>
         <p><strong>Material:</strong> Acero T10 con acabado envejecido</p>
         <p><strong>Precio:</strong> $150.00</p>
@@ -29,10 +29,10 @@
     <!-- Producto 2 -->
     <item>
       <title>Katana Akizuki - $200.99</title>
-      <link>https://alecrack640.github.io/blog/posts/Japanese_katana.html</link>
+      <link>https://alecrack640.github.io/Tienda_Katanas/blog/posts/Japanese_katana.html</link>
       <description>
         <![CDATA[
-        <img src="https://alecrack640.github.io/blog/images/japanese_katana.jpg" width="300" alt="Katana Akizuki"/>
+        <img src="https://alecrack640.github.io/Tienda_Katanas/blog/images/japanese_katana.jpg" width="300" alt="Katana Akizuki"/>
         <p>Katana tradicional "Luna de Otoño" con hoja de acero al carbono.</p>
         <p><strong>Material:</strong> Acero 1095, empuñadura envuelta en piel de raya</p>
         <p><strong>Precio:</strong> $200.99</p>
@@ -47,10 +47,10 @@
     <!-- Producto 3 -->
     <item>
       <title>Tanto - $29.99</title>
-      <link>https://alecrack640.github.io/blog/posts/Tanto.html</link>
+      <link>https://alecrack640.github.io/Tienda_Katanas/blog/posts/Tanto.html</link>
       <description>
         <![CDATA[
-        <img src="https://alecrack640.github.io/blog/images/tanto1.jpeg" width="300" alt="Tanto"/>
+        <img src="https://alecrack640.github.io/Tienda_Katanas/blog/images/tanto1.jpeg" width="300" alt="Tanto"/>
         <p>Daga tradicional japonesa para coleccionistas y artes marciales.</p>
         <p><strong>Material:</strong> Acero 1045, funda de madera</p>
         <p><strong>Precio:</strong> $29.99</p>
