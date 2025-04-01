@@ -7,6 +7,17 @@
     <title>Podcast de Katana Ki</title>
     <link rel="alternate" type="application/rss+xml" title="Podcast" href="../feed/podcast.xml">
     <link rel="stylesheet" href="../css/styles.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const hamburgerBtn = document.querySelector('.hamburger-btn');
+            const navLinks = document.querySelector('.nav-links');
+            
+            hamburgerBtn.addEventListener('click', function() {
+                navLinks.classList.toggle('active');
+                hamburgerBtn.textContent = navLinks.classList.contains('active') ? '✕' : '☰';
+            });
+        });
+    </script>
 </head>
 
 <body>
@@ -22,11 +33,14 @@
         </div>
     </header>
 
-    <!-- Barra de navegación -->
-    <nav class="navbar">
-        <a href="../index.html">Inicio</a>
-        <a href="index.html">Podcast</a>
-        <a href="../blog/index.html">Tienda de Katana</a>
+     <!-- Barra de navegación con hamburguesa -->
+     <nav class="navbar">
+        <button class="hamburger-btn">☰</button>
+        <div class="nav-links">
+            <a href="../index.html">Inicio</a>
+            <a href="../podcast/index.html">Podcast</a>
+            <a href="../blog/index.html">Tienda de Katana</a>
+        </div>
     </nav>
 
     <!-- Introducción -->

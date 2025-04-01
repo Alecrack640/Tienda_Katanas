@@ -123,6 +123,7 @@ body {
     padding: 10px;
     background-color: #333;
     text-align: center;
+    position: relative; /* Necesario para el menú desplegable */
 }
 
 .navbar a {
@@ -130,11 +131,37 @@ body {
     padding: 14px 20px;
     color: white;
     text-decoration: none;
+    transition: background-color 0.3s;
 }
 
 .navbar a:hover {
     background-color: #575757;
 }
+
+
+/* Nuevos estilos para menú hamburguesa */
+.hamburger-btn {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 28px;
+    cursor: pointer;
+    padding: 10px 15px;
+    margin: 0 auto;
+}
+
+.nav-links {
+    display: inline-block;
+}
+
+.nav-links a {
+    display: inline-block;
+    padding: 14px 20px;
+    color: white;
+    text-decoration: none;
+}
+
 
 /* Contenedor Principal */
 .container {
@@ -322,7 +349,35 @@ footer a img {
         padding: 20px 15px;
         margin: 10px;
     }
+
+    .hamburger-btn {
+        display: block;
+        width: 100%;
+    }
+
+    .nav-links {
+        display: none;
+        width: 100%;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: #333;
+        z-index: 1000;
+    }
+    
+    .nav-links.active {
+        display: block;
+    }
+    
+    .nav-links a {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 12px;
+        border-top: 1px solid #575757;
+    }
 }
+
 
 /* Tablets */
 @media (min-width: 601px) and (max-width: 1023px) {

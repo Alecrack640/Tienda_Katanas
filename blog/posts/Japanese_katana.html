@@ -6,6 +6,17 @@
     <title>Japanese katana</title>
     <link rel="alternate" type="application/rss+xml" title="Tienda de Katanas - Solo este producto" href="../../feed/rss.xml">
     <link rel="stylesheet" href="../../css/styles.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const hamburgerBtn = document.querySelector('.hamburger-btn');
+            const navLinks = document.querySelector('.nav-links');
+            
+            hamburgerBtn.addEventListener('click', function() {
+                navLinks.classList.toggle('active');
+                hamburgerBtn.textContent = navLinks.classList.contains('active') ? '✕' : '☰';
+            });
+        });
+    </script>
 </head>
 <body>
 <!-- Encabezado -->
@@ -20,12 +31,15 @@
     </div>
 </header>
 
-<!-- Barra de navegación -->
-<nav class="navbar">
-    <a href="../../index.html">Inico</a>
-    <a href="../../podcast/index.html">Podcast</a>
-    <a href="../../blog/index.html">Tienda de Katana</a>
-</nav>
+    <!-- Barra de navegación con hamburguesa -->
+    <nav class="navbar">
+        <button class="hamburger-btn">☰</button>
+        <div class="nav-links">
+            <a href="../../index.html">Inicio</a>
+            <a href="../../podcast/index.html">Podcast</a>
+            <a href="../index.html">Tienda de Katana</a>
+        </div>
+    </nav>
 
     <main>
         <section class="producto-detalle">
