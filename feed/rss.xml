@@ -6,22 +6,23 @@
     <description>Catálogo completo de katanas y productos samuráis</description>
     <atom:link href="https://alecrack640.github.io/Tienda_Katanas/blog/feed/rss.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
-    <lastBuildDate>Tue, 25 Mar 2025 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 12:00:00 +0000</lastBuildDate>
+    <generator>Custom RSS Generator</generator>
 
     <!-- Producto 1 -->
     <item>
       <title>Ghost Of Tsushima Katana - $150.00</title>
       <link>https://alecrack640.github.io/Tienda_Katanas/blog/posts/Ghost_Of_Tsushima_Katana.html</link>
       <description><![CDATA[
-        <img src="https://alecrack640.github.io/Tienda_Katanas/blog/images/ghost-of-tsushima-katana.jpg" width="300" alt="Ghost Of Tsushima Katana"/>
+        <img src="https://alecrack640.github.io/Tienda_Katanas/blog/images/ghost-of-tsushima-katana.jpg" alt="Ghost Of Tsushima Katana" width="300"/>
         <p>Réplica oficial de la katana de Jin Sakai. Ideal para coleccionistas.</p>
         <p><strong>Material:</strong> Acero T10 con acabado envejecido</p>
-        <p><strong>Precio:</strong> $150.00</p>
+        <p><strong>Precio:</strong> $150.00 USD</p>
       ]]></description>
       <category>Katanas</category>
       <category>Replicas</category>
       <guid isPermaLink="true">https://alecrack640.github.io/Tienda_Katanas/blog/posts/Ghost_Of_Tsushima_Katana.html</guid>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
     </item>
 
     <!-- Producto 2 -->
